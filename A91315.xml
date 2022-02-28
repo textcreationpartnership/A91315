@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of Psalme 105.15. (touch not mine anoynted, and doe my prophets no harme) from some false glosses lately obtruded on it by Royallists. Proving that this divine inhibition was given to kings, not subjects; to restraine them from injuring and oppressing Gods servants, and their subjects; who are Gods anoynted, as well as kings: and that it is more unlawfull for kings to plunder and make war upon their subjects, by way of offence, then for subjects to take up armes against kings in such cases by way of defence. With a briefe exhortation to peace and unity.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91315</idno>
+            <idno type="STC">Wing P4125</idno>
+            <idno type="STC">Thomason E244_1</idno>
+            <idno type="STC">ESTC R3017</idno>
+            <idno type="EEBO-CITATION">99872258</idno>
+            <idno type="PROQUEST">99872258</idno>
+            <idno type="VID">124684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124684)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E244[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of Psalme 105.15. (touch not mine anoynted, and doe my prophets no harme) from some false glosses lately obtruded on it by Royallists. Proving that this divine inhibition was given to kings, not subjects; to restraine them from injuring and oppressing Gods servants, and their subjects; who are Gods anoynted, as well as kings: and that it is more unlawfull for kings to plunder and make war upon their subjects, by way of offence, then for subjects to take up armes against kings in such cases by way of defence. With a briefe exhortation to peace and unity.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne by Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CV, 15 --  Commentaries --  Early works to 1800.</term>
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124684:1"/>
+            <pb facs="tcp:124684:1" rendition="simple:additions"/>
+            <p>A VINDICATION Of PSALME 105.15.</p>
+            <p>
+               <hi>(Touch not mine Anoynted, and doe my Prophets no harme)</hi> from ſome <hi>falſe Gloſſes</hi> lately obtruded on it by Royalliſts.</p>
+            <p>PROVING, That this <hi>Divine Inhibition</hi> was given to <hi>Kings,</hi> not <hi>Subjects;</hi> to reſtraine them from injuring and oppreſſing <hi>Gods ſervants,</hi> and their <hi>Subjects;</hi> who are <hi>Gods Anoynted,</hi> as well as <hi>Kings:</hi> And that it is more unlawfull for <hi>Kings</hi> to <hi>plunder</hi> and <hi>make War</hi> upon their Subjects, by way of <hi>offence,</hi> then for <hi>Subjects</hi> to take up Armes againſt Kings in ſuch caſes by way of <hi>defence.</hi> With a briefe exhortation to peace and unity.</p>
+            <bibl>
+               <hi>2 Samuel 23.3.</hi>
+            </bibl>
+            <q>
+               <p>He that ruleth over men muſt be juſt, ruling in the feare of God.</p>
+            </q>
+            <bibl>
+               <hi>Eccleſiaſtes 4.1, 2.</hi>
+            </bibl>
+            <q>
+               <p>I returned and conſidered all the Oppreſſions that are done under the Sunne; and behold the teares of ſuch as were oppreſſed, and they had no Comforter: and on the ſide of their oppreſſors there was power, but they had no Comfor<g ref="char:EOLhyphen"/>ter. Wherefore I praiſed the dead which are already dead, more then the living which are yet alive.</p>
+            </q>
+            <bibl>
+               <hi>Proverbs 28.15, 16.</hi>
+            </bibl>
+            <q>
+               <p>As a roaring Lyon, and a ranging Beare, ſo is a wicked Ruler over the poore people. The Prince that wanteth underſtanding is alſo a great oppreſſour; but he that hateth covetouſneſſe ſhall prolong his daies.</p>
+            </q>
+            <bibl>
+               <hi>Galathians 5.15.</hi>
+            </bibl>
+            <q>
+               <p>But if ye bite and devoure one another, take heed that ye be not conſumed one of another.</p>
+            </q>
+            <p>
+               <hi>Printed, 1642.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124684:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>Here is nothing more pernicious to the ſouls of men, or deſtructive to the re<g ref="char:EOLhyphen"/>publique in diſtracted times, then Clergy-mens wreſting of Scriptures from their genuine ſenſe to enſnare mens conſciences, the better to accompliſh ſome ſiniſter deſignes. How ſundry ſacred texts have been thus perverted of later yeers, not by the<note n="*" place="margin">2 Pet. 2.16</note> 
+               <hi>unlearned and unſtable vulgar,</hi> but by the greateſt <hi>Seraphicall Doctors</hi> in our Church, is too apparent unto all; and among others that of the Pſalmiſt, Pſal. 105.15. (which is repeated 1 Chron. 16.22.) <hi>Touch not mine Anoynted, and do my Prophets no harm;</hi> hath not had the leaſt violence offered it, both in <hi>Preſſe</hi> and <hi>Pulpit,</hi> to cry up the <hi>abſolute irreſiſtable Prerogative of Kings</hi> in all their exorbitant proceedings; and beat down the <hi>juſt liberties of the Subject,</hi> without the leaſt defenſive oppoſition; when as this text, in real verity, is rather a direct precept given to Kings themſelves, not to oppreſſe or injure their faithful ſubjects, then an injunction given to ſubjects, not to defend themſelves againſt the oppreſſive deſtructive wars, and projects of their Princes. In which regard it wil be no <hi>unſeaſona<g ref="char:EOLhyphen"/>ble</hi> nor <hi>ungratefull</hi> worke, to cleare this text from all falſe Gloſſes, and reſtore it to its proper conſtruction.</p>
+            <p>In former ages when popery domineered, the <hi>popiſh Clergy</hi> grounded their <hi>pretended exemption from all temporall juriſdiction on this Scripture;</hi> ſuggeſting, <hi>that they onely, at leaſt principally were Gods Anointed here intended; and therefore ought not be touched nor apprehended by Kings or tempo<g ref="char:EOLhyphen"/>rall Iudges for any crimes.</hi> But this falſe Gloſſe being long ſince exploded, many <hi>Court Divines,</hi> not ſo much to <hi>ſecure</hi> as <hi>flatter</hi> Kings, have applyed it primarily unto <hi>Kings,</hi> and ſecundarily to <hi>Prieſts,</hi> as meant of them alone, excluding their faithfull Subjects out of its protection and li<g ref="char:EOLhyphen"/>mits; when as the text is meant of none elſe but they in general, and of <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> with <hi>their families</hi> in particular.</p>
+            <p n="1">1. To put this out of queſtion: you muſt firſt obſerve, that this Pſalm from the 5 verſe to the end, is meerely hiſtoricall. The 7 firſt verſes of it are but a gratulatory preamble (interlaced with ſome exhortations) to the ſubſequent hiſtoricall narration; as he that reads them adviſedly will at firſt acknowledge: In the 8, 9, 10, &amp; 11. verſes, the Pſalmiſt begins his hiſtory, with the <hi>co<g ref="char:EOLhyphen"/>venant which God made to</hi> Abraham, <hi>and the oath which he ſware to</hi> Iſaac; <hi>and confirmed the ſame unto</hi> Jacob <hi>for a law, and to</hi> Iſrael <hi>for an everlaſting teſtament: ſaying, unto thee will I give the land of</hi> Canaan, <hi>the lot of your inheritance.</hi> In the 12, 13, 14, &amp; 15. verſes, he expreſſeth the ſpecial care and protection of God over <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> and their ſeveral families after his co<g ref="char:EOLhyphen"/>venant thus made unto them, in theſe words: <hi>When they</hi> (to wit, Abraham, Iſaac, and Jacob, with their families) <hi>were but a few men in number, yea very few and ſtrangers in it: When they went from one Nation to another, from one Kingdom to another people</hi> (which cannot poſſibly be expounded of Kings and Prieſts, but onely of thoſe Patriarcks) <hi>He ſuffered no man to doe them wrong, but reproved even Kings for their ſakes, ſaying, Touch not mine Aroynted, and doe my Prophets no harme.</hi> Then in the very next verſe to the end of the Pſalm, he proceeds with the ſtory of the <hi>famine in Egypt,</hi> and of <hi>Ioſephs ſending thither beforehand by God, &amp;c.</hi> So that by the expreſſe words and ſeries of the ſtory in this Pſalm, theſe perſons of whom God ſaid, <hi>Touch not mine anointed, and do my Pro<g ref="char:EOLhyphen"/>phets no harme,</hi> were <hi>Abraham, Iſaac,</hi> and <hi>Iacob,</hi> and their families, (as S. <hi>Auguſtin</hi> with ſundry other Expoſiters of this Pſalm conclude;) who in truth were neither Kings nor Prieſts by office, but onely Gods peculiar people and ſervants: of whom he took ſpecial care. Whence I thus rea<g ref="char:EOLhyphen"/>ſon, in the firſt place.</p>
+            <p>Theſe words, <hi>Touch not mine anointed, &amp;c.</hi> were originally ſpoken and intended only of <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac,</hi> and <hi>Iacob, and their families,</hi> who were neither actual Kings not Prieſts; &amp; they were meant of them, not as they were Kings or Prieſts, but only as they were the ſervants
+<pb facs="tcp:124684:2"/>and choſen people of God; as is evident by the 6 verſe of this Pſalm, <hi>O ye ſeed of</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>his SERVANT, ye children of</hi> Jacob <hi>his CHOSEN.</hi>
+            </p>
+            <p>Therefore they are to be ſo interpreted; and to be applyed not to Kings and Prieſts, as they are ſuch; but only to the faithful ſervants and choſen people of God, though, and as ſubjects.</p>
+            <p>Secondly, Conſider to whom theſe words were ſpoken; not to <hi>Subjects,</hi> but to <hi>Kings</hi> them<g ref="char:EOLhyphen"/>ſelves; as the Pſalmiſt reſolves in expreſſe terms, Verſ. 14. <hi>He ſuffered no man to do them wrong, but reproved even KINGS for their ſakes; ſaying,</hi> (even to Kings themſelves) <hi>Touch not mine anointed, and do my Prophets no harme.</hi> Now that theſe words were ſpoken to Kings themſelves is apparent, by thoſe hiſtories to which theſe words relate, recorded at large, <hi>Geneſ.</hi> 12.10. to 20, <hi>Gen.</hi> 20. throughout, and <hi>Gen.</hi> 26.1. to 17. and verſ. 29. <hi>Where when</hi> Abraham <hi>by reaſon of the famine went down into</hi> Egypt, <hi>with</hi> Sarah <hi>his wife, and King</hi> Pharaoh <hi>tooke her into his houſe, God firſt permitted neither</hi> Fharaoh <hi>nor his ſervants to do either of them any injury</hi> (<hi>though</hi> Abraham <hi>out of over-much feare, ſuſpected they would have killed him, and therefore made</hi> Sarah <hi>ſay ſhe was his ſiſter,</hi>) <hi>and like<g ref="char:EOLhyphen"/>wiſe plagued</hi> Pharaoh, <hi>and his ſervants becauſe of</hi> Sarah Abrahams <hi>wife; whereupon they and all theirs went away in ſafety. After which</hi> Abraham <hi>and his wife ſojourning in</hi> Gerar, Abimelech <hi>king of</hi> Gerar <hi>ſent and took</hi> Sarah: <hi>But God ſaid to</hi> Abimelech <hi>in a dream, behold thou art a dead man for the woman that thou hast taken, for ſhe is a mans wife, &amp;c. Therefore I ſufferred thee not to touch her: Now therefore reſtore the man his wife, for he is a Prophet:</hi> (where, <hi>Touch not mine anoynted, and do my Prophets no harme,</hi> were litterally fulfilled:) <hi>and he ſhal pray for thee, and thou ſhalt live; and if thou reſtore her not, know that thou ſhalt ſurely die, thou and all that are thine: whereupon</hi> Abimelech <hi>reſtored</hi> Abraham <hi>his wife, and gave him Sheep, Oxen, Men-ſervants, and Women-ſervants, and leave to dwell in the Land where he pleaſed.</hi> After which Iſaac <hi>and his wife dwelling in</hi> Gerar, <hi>and he telling the men of the place that ſhe was his ſiſter, leſt they ſhould kill him for her, becauſe ſhe was faire, king</hi> Abimelech <hi>diſcovering her to be his wife, charged all his people, ſaying, he that toucheth this man or his wife ſhall ſurely be put to death; yea he kindly intreated him, and did unto him nothing but good, and ſent her away in peace.</hi> To which we may adde, the ſtory of <hi>Gods prohibiting and reſtraing both</hi> Laban <hi>and</hi> Eſau (who were as potent as Kings) <hi>to burt</hi> Jacob <hi>when they came out maliciouſly a<g ref="char:EOLhyphen"/>gainſt him. Gen.</hi> 31.24, 29, 52.55. &amp; ch. 33.1, 2, 3, 4, &amp;c. This prohibition then, <hi>Touch not mine anoynted, &amp;c.</hi> being given to Kings themſelves, not to touch or hurt theſe Patriarchs whiles they ſojourned among them as forraigners and ſubjects (as all expoſitours grant) and not to ſubjects touching their Kings; theſe two concluſions will hence neceſſarily follow.</p>
+            <p n="1">1. That this inhibition, given to Kings themſelves with reference to ſubjects, and the people of God, cannot properly be meant of Kings and Prieſts, but of ſubjects fearing God. It is moſt apparant, that Kings, Princes and Rulers of the earth have alwaies been the greateſt enemies and perſecutors of Gods <hi>anointed ones,</hi> to wit, of Chriſt and his choſen members; witneſſe Pſ. 2.2. &amp; Act. 3.26, 27. <hi>The Kings of the Earth ſet themſelves, and the Rulers take counſell together a<g ref="char:EOLhyphen"/>gainſt the Lord, &amp; againſt his</hi> anoynted: <hi>For of a truth</hi> againſt <hi>the holy child Ieſus, whom thou haſt</hi> anointed, <hi>both Herod and Pontius Pilate, with the Gentiles and people of Iſrael were gathered toge<g ref="char:EOLhyphen"/>ther, &amp;c. And now Lord behold their threatnings.</hi> Which truth you may ſee exemplified by Pſ. 119.23, 161. Ier. 26.21, 22, 23. c. 36.26. c. 37.15. c. 38.4, 5, 6. Ezek. 22.6.7, 27, 28. Mich. 3.1. to 12 Zeph. 3 3.1 Sam. 22.16 to 20.2 Chron. 24 21.1 King. 22.26.27, c. 29.2.10. Rev. 17.12, 13, 14. c. 18 9, 10. c. 19.18, 19. Math. 10.17, 18 Lu. 21.12. Iam: 2.6. Act. 12.1, 2, 3. with ſundry other Scriptures, and by all eccleſiaſtical hiſtories ſince. In which regard God in his infinite wiſdome gave this divine inhibition, not to ſubjects and inferiour perſons; but to Kings, Princes, and the greateſt Potentates (who, deem their wils a law, and think they may doe what they pleaſe to their godly ſubjects,) <hi>Touch not mine anointed, and do my Prophets no harme:</hi> which being ſpoken to Kings themſelves; it cannot be meant of Kings but ſubjects; unleſſe you wil make this nonſence expoſition of it. <hi>That Kings muſt not touch nor hurt them<g ref="char:EOLhyphen"/>ſelves; and that it is unlawfull for one King to make war againſt, impriſon, depoſe, or kill another:</hi>
+               <pb facs="tcp:124684:3"/>which the practiſe of all ages, with infinite<note n="*" place="margin">Read the 2 Chr. 36. Dan. 5.30, 31. Joſh. 12. for all the reſt.</note> 
+               <hi>preſidents in Scripture</hi> and ſtory, manifeſt to be lawful, and not prohibited by this text; which can properly be applied to none, but ſub<g ref="char:EOLhyphen"/>jects fearing God.</p>
+            <p n="2">2. That all Gods faithfull people are <hi>Gods anoynted,</hi> as well as Kings: and therefore as our <hi>Court Cycophants</hi> conclude from hence, That Subjects may in no wiſe take up Armes (though meerely defenſive) againſt their Kings, becauſe they are Gods anoynted: ſo by the ſelf-ſame reaſon, the genuine proper meaning and expreſſe reſolution of this text, Kings ought not to take up Armes againſt their ſubjects, eſpecially thoſe profeſſing the true feare of God, becauſe they are Gods anoynted to, as well as Kings.</p>
+            <p>If any Court-Chaplaine here demand; how I prove beleeving Subjects fearing God, to be hiſ annointed, as wel as Kings or Prieſts?</p>
+            <p>I anſwer: firſt, the Scripture reſolves expreſly: <hi>That all true Chriſtians are really</hi> (in a ſpiritu<g ref="char:EOLhyphen"/>all ſence) <hi>both</hi>
+               <note n="*" place="margin">Rev. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. c. 5.10. c. 20.6. Exod. 19.6 1 Pet. 2.5.</note> 
+               <hi>Kings and Prieſts to God the Father,</hi> though they be but ſubjects in a politicke ſence: yea, <hi>God hath prepared a heavenly kingdome, (with an eternal Crown of glory) for them, where they ſhall raigne with Chriſt for ever and ever.</hi> Math. 5.3. c. 25.34. Lu. 6.20. c. 12.32. c. 22.29.30. Col. 1.13.1 Theſ. 2.12. Hebr. 12.28. Iam. 2.5.2 Pet. 1.11.2 Tim. 4.8.1 Pet. 5.4.1 Cor. 9.25. Reve. 22.5.2 Tim. 2.12. Being therefore thus really Kings and Prieſts, and having an heavenly Kingdom and Crown of glory, wherein they ſhall raigne with Chriſt for ever: in this regard they may as truly be called <hi>Gods anointed,</hi> as any Kings and Prieſts whatſoever.</p>
+            <p>Secondly, all true Chriſtians are <hi>members of Chriſt and of his body, fleſh and bone; and made one with Chriſt,</hi> who dwelleth in them, and they in him, 1 Cor. 12.12, 17. Epheſ. 1.22, 23. c. 3.17. c. 9.29, 30.32. Iohn 6 51. c. 17.21, 23. In which reſpect they are not onely ſtiled <hi>Chriſtians</hi> in Scripture, Act. 11.26. c. 26.28. 1 Pet. 4.16. But <hi>Chriſt himſelfe,</hi> 1 Cor. 10.12. Epheſ. 4.12, 13. Now our Saviour himſelfe is ſtiled <hi>Chriſt</hi> in Scripture, in the abſtract, by way of excellency, onely <hi>be<g ref="char:EOLhyphen"/>cauſe he is the Lords anointed; anointed with the oyle of gladneſſe above his fellows.</hi> Pſal. 45.7. <hi>Pſ.</hi> 2.2. Eſay 61.1. Act. 4.23. c. 10.38. Lu. 4.18. Heb. 1.9. <hi>Chriſtos</hi> in the Greek, ſignifying <hi>anointed</hi> in Engliſh, being derived from <hi>Chrio,</hi> to <hi>anoint:</hi> And <hi>Chriſtians</hi> had this very title given them, be<g ref="char:EOLhyphen"/>cauſe they are Chriſts members, and have a ſpirituall<note n="*" place="margin">See Ezek. 16.9. I a<g ref="char:EOLhyphen"/>nointed thee with oyle, &amp;c.</note> 
+               <hi>anoyntment</hi> in, by, and from Chriſt, and his Spirit, 1 Iohn 2.27. <hi>But the ANOYNTING which ye have received of him abideth in you, and ye need not any man teach you, but as the ſame ANOINTING teacheth you of all things.</hi> There<g ref="char:EOLhyphen"/>fore they are really and truely <hi>Gods anoynted,</hi> and may be as properly ſo phraſed, as any Kings and Prieſts whatſoever.</p>
+            <p>Thirdly, the Scripture in direct terms oft cals Gods people, (though ſubjects) <hi>Gods anointed:</hi> as Pſal. 28.8, 9. <hi>The Lord is their ſtrength, and he is the ſaving health of his anoynted.</hi> Now who thoſe are, is expreſſed in the following words, <hi>Save thy people, bleſſe thine inheritance, guide them and lift them up for ever.</hi> Gods people are here defined to be <hi>his anoynted.</hi> So Pſal. 18.50. <hi>And ſheweth mercy to his anointed;</hi> (but who are they?) <hi>to David and to his ſeed for ever more,</hi> that is, to Chriſt and his elect children, here called <hi>Gods anointed,</hi> Habakuck. 3.13. <hi>Thou wenteſt forth for the ſalva<g ref="char:EOLhyphen"/>tion of thy people, even for ſalvation with thine anointed.</hi> 2 Cor. 1.21. <hi>Now he which eſtabliſheth us in Chriſt, and hath anointed us, is God, &amp;c.</hi> 1 Ioh. 2.27. <hi>The anointing which ye have received of him, abideth in you, &amp;c.</hi> All theſe, with other Scriptures, thus reſolving Gods people (though ſubjects) to be his <hi>anointed ones;</hi> they may be properly ſaid to be the perſons ſpecified in this text. <hi>Touch not mine anointed;</hi> being an injunction given to Kings themſelves, and not meant of Kings, but of Gods people, as I have formerly manifeſted.</p>
+            <p>I ſhal willingly and cordially profeſſe, that Kings in ſacred writ, are commonly called, <hi>Gods anointed;</hi> becauſe <hi>they were uſually anointed with Oyle upon their inauguration to their Throns,</hi> 1 Sam. 10.1. c. 15, 17. c. 12.3, 5. c. 16, 3, c. 12.13. c. 24.6, 10. c. 26.6, 11.16, 23.2 Sam. 1.14, 16. c. 2.4, 7 1 King. 1.34, 39, 45. 2 King. 9.3, 6, 12. 2. Chron. 6.42. Pſal. 20.6. Pſal. 89.20, 38, 51. Pſal. 92.12. Pſal. 132.10, 17. Eſay 45.1. Lam. 4.20. And in this regard <hi>their perſons are ſacred, and no violence
+<pb facs="tcp:124684:3"/>ought to be exerciſed upon their perſons, eſpecially by their ſubjects,</hi> as is cleare by the 1 Sam. 24.3. to 12, 17, 18, 19. ch. 26.7. to 25. 2 Sam. 1.2, to 17. And hereupon this text, <hi>Touch not mine anointed, and doe my Prophets no harme,</hi> though not properly meant of Kings, may yet be aptly applyed to their perſonal ſafety. But then I ſay, on the contrary part, That all Gods Saints and people, though ſubjects, <hi>are his anointed ones</hi> as wel as Kings; wherefore Kings muſt no more offer violence to their perſons or eſtates (without legal conviction and juſt cauſe) then they offer vio<g ref="char:EOLhyphen"/>lence to their Kings, which I ſhall thus make cleare.</p>
+            <p>Firſt, becauſe God hath given this expreſſe injunction even to Kings themſelves, <hi>Touch not mine anointed,</hi> (that is your ſubjects, my faithful ſervants) <hi>and doe my Prophets no harme,</hi> Pſal. 105.14, 15. 1 Chro. 16.21, 12. Prohibiting <hi>Abimelech, and he his ſubjects ſo much as to touch Abraham, Sarah, or Iſaac,</hi> Gen. 20.6. c. 26, 11, 29.</p>
+            <p>Secondly, becauſe <hi>he that toucheth them</hi> (to doe them harme) <hi>toucheth the very apple of Gods eye.</hi> Zeph. 2.8. Pſal. 17.8, 9. Deut. 32.9 10, 11. Yea, <hi>perſecuteth God, nay Chriſt himſelfe.</hi> Eſay 63.9 Math. 25.45. Act. 9 4, 5. And what Kings, how great ſoever, may or dare touch or perſecute God and Chriſt, <hi>the King of Kings.</hi>
+            </p>
+            <p>Thirdly, becauſe God himſelfe hath quite extirpated Kings and their poſterities, for offering violence to his ſervants, though their ſubjects. Thus <hi>Ahab, Iezabel, and their poſterity were deſtroy<g ref="char:EOLhyphen"/>ed, for putting Naboth to death, and ſeizing on his Vineyard wrongfully without cauſe, though under a pretext of law,</hi> 1 King. 21. &amp; 22. 2 King. 9. So King <hi>Joaſh exciting his people to ſtone the prophet Zachariah without good cauſe, which they did at his commandement; the Princes and people who did it were ſoon after deſtroyed by the Syrians; and the Kings own ſervants conſpired againſt him for the blood of Zachariah, and ſlew him on his bed, and then buried him diſhonourably, not in the Sepulchre of the Kings,</hi> So as his prayer at his death <hi>(the Lord look upon it and require it)</hi> was fully executed on the King and people, 2 Chron. 24.20. to 27. Thus King <hi>Iehoahaz, Iehorachin, and Iehoiachim with all their Princes and people were carried away captive into Babylon, and deſtroyed, for mocking, abu<g ref="char:EOLhyphen"/>ſing, and deſpiſing Gods meſſengers, prophets, and people,</hi> 2 Chron. 36.16, 17. Many ſuch inſtances might be added, but theſe may ſuffice; and that of the King of <hi>Babilon,</hi> Eſay 14.4, 19.20, 21, 22. <hi>But thou art caſt out of thy grave as an abominable branch, &amp;c. as a carcaſe troden under feet. Thou ſhalt not be joyned with them in buriall.</hi> BECAUSE THOU HAST DESTROYED THY LAND, AND SLAINE THY PEOPLE: <hi>the ſeed of evil doers ſhall never be renowned. Prepare ye ſlaughter for his children, for the iniquity of their fathers, that they do not riſe, nor poſſeſſe the Land, nor fill the face of the world with cities. For I will riſe up againſt them, ſaith the Lord of Hoſts, and cut off from Babylon the name and remembrance, and ſons, and nephews, ſaith the Lord.</hi> A notable text for oppreſſing Princes to meditate upon.</p>
+            <p>Fourthly, becauſe God himſelfe hath given an expreſſe command, Ezek. 44.15, 16, 17. <hi>That the Prince ſhall not take of the peoples inheritance by oppreſſion to thruſt them out of their poſſeſſion, but he ſhall give his ſonnes inheritance out of his own poſſeſſion.</hi> Which wel interpreteth and fully anſwe<g ref="char:EOLhyphen"/>reth that much abuſed text in the 1 Sam. 8.11, 12, 19. and proves <hi>the Kings taking of their Folds, Vineyards, Oliveyards, Seed and Sheep to give his ſervants</hi> there ſpecified, to be a meere oppreſſion; <hi>which ſhould make them cry out in that day becauſe of their King, verſ.</hi> 18. and no lawful act, as ſome royaliſts gloſſe it. If then Kings may not take away by violence or oppreſſion their ſubjects lands or goods; muchles may they offer violence to their perſons, being Gods anointed, yea his <hi>Temple,</hi> 1 Cor. 6.19. c. 3.16. <hi>And if any man (be he King or Emperour) deſtroy the Temple of God, him will God deſtroy; for the Temple of God is holy, which Temple they are,</hi> 1 Cor. 3.17. Hence <hi>Ioab, Davids</hi> General, <hi>comming to beſiege Abel to which Sheha fled, a woman of that place thus expoſtulated with him, thou ſeekest to deſtroy a City and mother in Iſrael: why wilt thou ſwallow up the inheritance of the Lord?</hi> Whereupon <hi>Ioab anſwered and ſaid: far be it, far be it from me that I ſhould ſwallow up or de<g ref="char:EOLhyphen"/>ſtroy,</hi> 2 Sam. 20.19, 20.</p>
+            <p>Fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tly, becauſe no law of God or man hath given any authority <hi>to Kings to injure</hi> or oppreſſe <hi>their ſubjects, in body lands or goods, but onely to feed, defend, protect them; and to fight their battels for
+<pb facs="tcp:124684:4"/>them,</hi> not to wage war againſt them. 2 Sam. 6.2. c. 23.3. Pſal. 78.72, 73, 74. 2 Chron. 10. c. 9.8. c. 20.8, 16. c. 29, 4 14. Eſay 49.23. 1 Tim. 2.3. Therefore Kings having no right at all to in jure or oppreſſe their people, they neither lawfully can nor ought to do it, either by themſelves or in<g ref="char:EOLhyphen"/>ſtruments; there being nothing more ſeverely prohibited and cenſured in Scripture then Princes and Magiſtrates oppreſſion of their Subjects, Prov. 28.15, 16. Zeph. 3.3. Michah 3 9, to 12. Ezek. 22.6.7, 27. Take but one text for many, Ezek. 45.8, 9. <hi>My I'rinces ſhal no more expulſe my people, and thereſt of the land ſhal they give to the houſe of Iſrael according to their Tribes. Thus ſaith the Lord God, let it ſuffice you, O Princes of Iſrael, remove violence and ſpoyle</hi> (or plundering) <hi>and execute judgment and juſtice; take away your exactions from my people, ſaith the Lord,</hi> See Eſay 1.23.</p>
+            <p>Sixtly, Becauſe as there is a ſolemne<note n="*" place="margin">2 <hi>Eliz.</hi> c. 2.</note> 
+               <hi>Oath of allegeance,</hi> of the people to their Kings, <hi>to ho<g ref="char:EOLunhyphen"/>nour and defend their perſons;</hi> So there is the like <hi>oath from kings to their people, to protect their rights and perſons, goods, eſtates, lives, lawes, and liberties, from all violence and injuſtice,</hi> ſolemnly ſworn at their <hi>Coronations.</hi>
+               <note place="margin">1 Sam. 5.12, 14, 20, 16. Dour. 17.14, 15.</note> By vertue of which oath Kings are as ſtrictly tyed not to wage war againſt their Subjects, nor to oppreſſe or offer violence to their perſons, liberties, or eſtates; as their ſubjects are by their oath <hi>of allegiance,</hi> not to rebel againſt them. And ſeeing Kings were firſt created by and<note n="*" place="margin">Rom. 13.6.</note> for their ſubjects; and not their ſubjects by and for them; and are in verity but publike ſervants for their peoples welfare, their ſubjects not being ſo much theirs, as they their ſubjects; from whom they<note n="*" place="margin">Math. 22.17. to 22.</note> 
+               <hi>receive both their maintenance and royalties.</hi> There is as little (if not far leſſe) reaſon, for Kings to oppreſſe and take up offenſive armes againſt their ſubjects though perchance more undutiful and refractory then they expect; as there is for people to take up offenſive armes againſt their Princes, in caſe they become more oppreſſive and invaſive on their perſons, goods, lawes, liberties, then they ſhould. The husband hath no more right or authority to injure or deſtroy the wife, or the maſter the ſervant, the head the inferiour members, then they have to deſtroy the husband, maſter, or head. And as the leudneſſe of the King, husband, parent, maſter, muſt not cauſe the people, wife, child, ſervant, to rebel againſt them, and utterly to reject their bonds of duty; ſo the undutifulnes or vices of the people, wife, child, or ſervant, muſt not cauſe the King, husband, parent, or maſter, (as long as theſe relations remain actually undiſ<g ref="char:EOLhyphen"/>ſolved) to give over their care, protection, and vigilancy over them, or any waies injuriouſly to in<g ref="char:EOLhyphen"/>treat them 1 Pet. 2.18.2 Chro. 10. &amp; 11.</p>
+            <p>Finally, the<note n="*" place="margin">Exo. 1.15 to 20.</note> 
+               <hi>Hebrew Midwives, notwithſtanding K. Pharohs command, would by no means kil the Iſraelites male children;</hi> (though but bondmen, and no free ſubjects) <hi>and God bleſſed, and built them houſes for it:</hi> but<note n="*" place="margin">Exod. 14.23. to 31. Pſa. 106.11.</note> 
+               <hi>drowned Pharoah and his hoſt in the red ſea,</hi> for drowning them, and tranſgreſſing this inhibition, <hi>Touch not mine anointed:</hi> When<note n="*" place="margin">1 Sam. 2.17, 18.</note> 
+               <hi>K. Saul commanded his footmen and guard, to turn and ſlay the Prieſts of the Lord at Nob, becauſe their hand was with David</hi> (whom he deemed a tray<g ref="char:EOLhyphen"/>tor) <hi>and knew when he fled, and did not ſhew it him, they all refuſed</hi> (this his royall unjuſt command, though not only his Subjects, but ſervants too) <hi>and would not put their hand to fall upon them,</hi> being Gods anointed: And becauſe <hi>Doeg the Edomite ſlew them, by Sauls command, Saul himſelf was ſoon after ſlaine by his own hand,</hi> 1 Sam. 31.4. When<note n="*" place="margin">1 Sam. 14 38, to 46.</note> 
+               <hi>K. Saul had twice ſolemnly vowed to put his innocent ſon and ſubject Ionathan cauſeleſly to death, onely for taſting a little honey; his ſubjects</hi> were ſo far from aſſiſting him in this unjuſt action, that they preſently ſaid to their King, <hi>Shal Ionathan die who hath wrought ſo great ſalvation in Iſrael? God forbid: As the Lord liveth, there ſhal not one haire of his head fall to the ground: So the people RESCVED Jonathan that he died not,</hi> notwithſtanding <hi>Sauls</hi> double vow to the contrary, and <hi>Ionathans</hi> being not only his ſubject, but ſon too, which is more; neither are they taxed of diſobedience or treaſon, but commended for it. When<note n="*" place="margin">2 Chro. 10.</note> K. <hi>Rehoboam rai<g ref="char:EOLhyphen"/>ſed an army to fight againſt the ten tribes, who revolted from, and rebelled againſt him,</hi> (for giving them harſh language by the advice of his yong Counſellors;) electing a new King over them: <hi>God</hi> him<g ref="char:EOLhyphen"/>ſelf by his Prophet <hi>Shemiah,</hi> ſpake thus to <hi>Rehoboam</hi> and his army,<note n="*" place="margin">2 Chro. 11.4. 1 King 11.21, 22, 23, 24.</note> 
+               <hi>Ye ſhal not go up, nor fight a<g ref="char:EOLhyphen"/>gainſt your brethren, return every man to his houſe, for this thing is done of me: Whereupon they all obey<g ref="char:EOLhyphen"/>ed the words of the Lord, and returned:</hi> neither King nor ſubject daring to fight againſt them, con<g ref="char:EOLhyphen"/>trary to Gods expreſſe command, though rebels: how muchleſſe then may Kings wage war upon
+<pb facs="tcp:124684:4"/>their innocent loyall ſubjects? When<note n="*" place="margin">2 King. 6 31, 32, 33.</note> K. <hi>Iehoram</hi> in his fury <hi>made this raſh vow; God do ſo, and more <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to me, if the head of Eliſha</hi> (his ſubject) <hi>ſhal ſtand on him this day;</hi> and withall <hi>ſent a meſſenger to E<g ref="char:EOLhyphen"/>liſha his houſe to take away his head.</hi> This Prophet was ſo far from ſubmitting to this his unjuſt de<g ref="char:EOLhyphen"/>ſign, that <hi>he commanded the Elders ſitting with him to look when the meſſenger came, and ſhut the doore, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd hold him faſt, though the ſound of his maſters</hi> (the Kings) <hi>feet were behind him:</hi> which they did; not ſuffering the meſſenger or King to do him violence. Yea the great<note n="*" place="margin">2 Kin. 1.9, to 16.</note> 
+               <hi>Prophet Eliah,</hi> when K. <hi>Abaziah <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent two Captains with their fifcies one after another to apprehend and bring him down to him by violence;</hi> was ſo far from rendering himſelf into their hands; that in his own defence, <hi>he commanded fire twice together to come down fro<g ref="char:cmbAbbrStroke">̄</g> heaven which conſumed theſe two Captains and their men;</hi> though ſent by the King his Soveraign. Which divine miracle from heaven wrought by God himſelf manifeſts, That it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s lawful for ſubjects to defend themſelves againſt the unjuſt violence of their Kings; and that it is dangerous for Kings themſelves, or any of their officers by their commands to offer violence or injury to their ſubjects.<note n="*" place="margin">1 Kings 13.6.</note> This may be further cleared by Gods exemplary judgement upon K. <hi>Iero<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oam; who ſtretching forth his hand to ſmite the Prophet, which prophecied againſt his idolatrous Altar,</hi>
+               <note n="*" place="margin">Dan. 6.</note> 
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> dried up forthwith, ſo that he could not pull it in again.</hi> Upon thoſe <hi>Princes who cauſed Daniel to be un<g ref="char:EOLhyphen"/>juſtly caſt into the Lyons den, where he was preſerved ſafe from danger; but they their wives and children <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad there their bones broken in pieces by the Lyons er ever they came at the bottom of the den.</hi> And upon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe<note n="*" place="margin">Dan. 3.</note> 
+               <hi>mighty men in Nebuchadnezzars army,</hi> who bound <hi>Shadrach, Meſech, and Abednego, and caſt them into the burning fiery fornace, by the kings speciall command, becauſe they peremptorily refuſed to worſhip the golden image which he hath ſet up;</hi> who for executing this his unjuſt precept, were by Gods juſt vengence <hi>ſlain by the flame of the fiery furnace;</hi> when as thoſe three godly perſons unjuſt<g ref="char:EOLhyphen"/>ly caſt into it by the Kings command, were <hi>miraculouſly preſerved in the midſt of the fiery furnace, without any harme, there being not an haire of their heads ſinged, neither their coates changed, nor the ſmell of fire paſſed upon them.</hi> So ſafe is it for people <hi>to</hi>
+               <note n="*" place="margin">Acts 4.12 c. 5.28, 29, 40, 52. c. 11 1, to 19. Eſte. 3.2, 3 Iohn 7.33, to 48.</note> 
+               <hi>obey God rather then men, then kings themſelves</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n their unjuſt commands: ſo dangerous and deſtructive is it for Kings, or others upon their unjuſt commands, to offer any injury or violence to their ſubjects; or violate this injunction, <hi>Touch not <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ine anointed, &amp;c.</hi> In a word, I read Ier. 22.3. to 12. that God commanded King <hi>Shallum to execute judgment and righteouſnes, and deliver the ſpoiled out of the hands of the oppreſſor; &amp; do no wrong nor vio<g ref="char:EOLhyphen"/>lence to the ſtranger, fatherles, or widow, neither ſhed innocent blood in this place.</hi> Adding, <hi>But if ye ſhal not heare theſe words, I ſwear by my ſelfe, ſaith the Lord, that this houſe (even the kings houſe of Judah) ſhal become a deſolation, I wil make it a wilderneſſe, and prepare deſtroyers againſt it, every one with his weopon, &amp;c.</hi> And <hi>v.</hi> 15. to 30. in the ſame <hi>chap.</hi> God thus ſpeaks to K. <hi>Iehoiakim, Shalt thou raign be<g ref="char:EOLhyphen"/>cauſe thou cloſeſt thy ſelf in Cedar? Did not thy father eat and drink, &amp; do judgment and juſtice, and then <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t was well with him? &amp;c. But thine eyes, and thine heart were not but for thy covetouſnes, and to ſhed in<g ref="char:EOLhyphen"/>nocent blood, and for oppreſſion, &amp; for violence to do it. Therfore thus ſaith the Lord concerning Jehoiakim</hi> K. <hi>of Iudah; they ſhal not lament for him ſaying, ah my brother, or ah ſiſter; ah Lord, or ah his glory; but he ſhal be buried with the burial of an aſſe drawn &amp; caſt forth beyond the graves of Ieruſale.</hi> Neither doth this judgment for oppreſſing &amp; ſlaying his ſubjects reſt here, but extend to the utter extirpation of his poſterity, <hi>ver.</hi> 24.30. <hi>As I live, ſaith the Lord, though Coniah the ſon of Iehoiakim,</hi> K. <hi>of Iudah, were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſignet on my right hand, yet wauld I pluck thee thence. Write ye this man childleſſe, a man that ſhal not proſper in his daies, for no man of his ſeed ſhal proſper ſitting upon the thron of David.</hi> So fatal is it to Kings and their poſterity to oppreſſe and murther their ſubjects. And as for thoſe ſubjects who by their Kings commands ſhal take up armes againſt their brethen to murther, plunder, or oppreſſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem I ſhal deſire them firſt to conſider, that precept of <hi>Iohn Baptiſt</hi> given to ſouldiers themſelves, Luk. 3.14 <hi>Do violence to no man, &amp;c.</hi> muchles to your brethren and fellow-ſubjects: and next that of <hi>Obadieh</hi> v. 10. to 16 <hi>For thy violence againſt thy brother Iacob, ſhame ſhal cover thee, and thou ſhalt be cut off for ever. In the day that thou ſtoodeſt on the other ſide, in the day that the ſtrangers carried a<g ref="char:EOLhyphen"/>way his ſubſtance, and entered into his gates, and caſt lots upon Ieruſalem, even thou waſt as one of them. But thou ſhouldeſt not have looked on the day of thy brother, neither ſhouldeſt thou have rejoyced over the children of Judah in the day of their deſtruction; neither ſhouldeſt thou have ſpoken proudly in the day of
+<pb facs="tcp:124684:5" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:124684:6"/>diſtreſſe. Thou ſhouldeſt not have entered into the gate of my people, nor have looked on their affliction, have laid hands on their ſubſtance in the day of their calamity; Neither ſhouldeſt thou have ſtood in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> croſſe way, to cut off thoſe of his which dideſcape; neither ſhouldeſt thou have ſhut up thoſe of his that <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> remain in the day of diſtreſſe. As thou haſt done it ſhall be done unto thee, thy ſword ſhal return upon this own head.</hi> All which co<g ref="char:cmbAbbrStroke">̄</g>ſidered I ſhal humbly ſubmit it to every mans judgment; whether the wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtate in Parliament, and his Majeſties faithful ſubjects, may not upon as good or better grounds <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> conſcience, take up armes to defend and preſerve their perſons, wives, houſes, goods, eſtates, from unlawful violence, rapine, plundering and deſtruction, now every where practiſed by his Majeſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cavaleeres in <hi>a moſt</hi>
+               <note n="*" place="margin">See the Relation of <hi>Brain-ford</hi> buſi<g ref="char:EOLhyphen"/>neſſe.</note> 
+               <hi>barbarous manner, to the utter ruin of many thouſands for the preſent,</hi> and who<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdom in likelihood for the future, contrary to the fundamental lawes and liberties of the ſub<g ref="char:EOLhyphen"/>ject, his Majeſties Coronation oath and frequent Proteſtations and Declarations; As his Majeſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by advice of ill Counſellors, raiſe an army at home, and <hi>bring in forren</hi>
+               <note n="*" place="margin">See the Letter fro<g ref="char:cmbAbbrStroke">̄</g> the <hi>Hague</hi> newly pinted.</note> 
+               <hi>forces from abroad,</hi> to ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> war upon his Parliament and people, to plunder, murder, undoe them, and bring the whole King dome to utter deſolation? Certainly, if the ſubjects defenſive war in this caſe be unlawful; as <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Royalliſts aver, againſt Scripture, reaſon, and the principles of nature, which inſtruct all creature to defend themſelves againſt unjuſt violence and oppreſſion, as others have proved at large. Th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Kings offenſive war upon his loyal poore innocent ſubjects and Parliament, muſt much mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be unjuſt and unlawful, for the premiſed reaſons, and Scripture authorities.</p>
+            <p>For my part, it is ſo far from my intention, to foment this moſt unnatural deſtructive war be<g ref="char:EOLhyphen"/>tween King, Parliament, and people, that the thoughts of its deplorable effects do make my ver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſoule to bleed, and heart to tremble. For if ever Chriſt, the Oracle of truth, uttered any verity tru<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> than other, it was this,<note n="*" place="margin">Luke 11.17, 18, 19. Marke 3.24, 25, 26.</note> 
+               <hi>That a kingdom divided againſt it ſelf cannot ſtand, but ſhal be brought to deſo<g ref="char:EOLhyphen"/>lation;</hi>
+               <note n="*" place="margin">Gal. 5.15</note>
+               <hi>And if we bite and devoure one another, we ſhal be conſumed one of another.</hi> O then (if Go<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his juſtice hath not devoted us to a total and final deſolation for the ſins and abuſes of our lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> enjoyed former peace) if there be any remainder of policy or prudence, any bowels of mercy <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tender affection left within us, towards our moſt deere native bleeding and almoſt expiring Coun<g ref="char:EOLhyphen"/>try, <hi>England;</hi> to poore dying <hi>Ireland;</hi> to our religion, lives, wives, children, parents, kindred, neigh<g ref="char:EOLhyphen"/>bours, goods, eſtates, liberties; or any care of our own ſafety, tranquility or felicity; let all of a ſides now at laſt (after ſo much ſenſibly experience of the miſeries of an inteſtine uncivill was with all convenient expedition lay down offenſive and defenſive armes, and conclude ſuch a ſw<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſolid peace throughout our divided and diſtracted Kingdom, as may laſt for ever without the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> violation, upon ſuch juſt and honourable terms, as may ſtand with Gods glory, religions purity his Majeſties honour, the Parliaments priviledges, the ſubjects liberty, the whole Kingdoms ſafer and felicity; leaſt otherwiſe we become not onely a ſcorn and deriſionl, but likewiſe a prey to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> forraign enemies. Alaſſe, why ſhould the head and members have any civil conteſtations, ſin both muſt periſh if divided?<note n="*" place="margin">See 1 Cor. 12.14: to 26.</note> 
+               <hi>neither ſubſiſt, but being united?</hi> why ſhould the Kings Prerogati<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and the ſubjects liberties, which ſeldom claſhed heretofore, and ended all differences in Courts Juſtice, be now at ſuch irreconcileable enmity, as to challenge one another into the field, and ad<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> no trial but by <hi>battel?</hi> when I read in<note n="*" place="margin">1 Chro. 13.1, 2, 3, 4 2 Chro. 23 3 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 13.1. to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udg. 10.1 to 12. 2 Sun. 18.4. c. 19.43, c. 29.2. to 11. Ionah 37. Eſter 1.13. to 22 ler 38.4, 5.</note> 
+               <hi>Scripture,</hi> of ſundry preſidents <hi>where Kings, Princes, &amp; people have unanimouſly concurred in their counſels heretofore;</hi> and conſider how our King and Parliament have moſt happily accorded till of late, I cannot but bewaile their preſent diſcords; which O th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the God of peace and unity would ſpeedily reconcile.</p>
+            <p>I ſhal cloſe up all, with his Majeſties printed ſpeech to both houſes <hi>annexed to the petition of Rig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> by his Royal command. <hi>I aſſure you my</hi> maxime <hi>is, That the peoples</hi> Liberty <hi>ſtrengthens the King<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+               </hi> Prerogative; <hi>and that the Kings</hi> Prerogative <hi>is to defend the peoples</hi> Liberties: And with the <hi>State<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Magna Charta,</hi> ch. 29. <hi>No freeman ſhal be taken or impriſoned, or be diſſeiſed of his freehold, or liber<g ref="char:EOLhyphen"/>ties, or free cuſtoms, or be outlawed or exiled, or any other waies deſtroyed; nor we ſhall not paſſe upon hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nor condemn him, but by the lawful judgment of his Peers, or by the law of the Land. We ſhal ſel to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man, we ſhal deny nor defer to no man juſtice or right:</hi> Which in effect is a moſt exact paraphraſe <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this miſconſtrued text, <hi>Touch not mine anointed, and do my Prophets no harme.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
